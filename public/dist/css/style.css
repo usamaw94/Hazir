@@ -1,0 +1,320 @@
+.form-control:focus {
+    border-color: #00a65a;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.nav-tabs-custom>.nav-tabs>li.active {
+    border-top-color: #00a65a;
+}
+
+.info-box-icon>img {
+    margin-top: -11px;
+    max-width: 100%;
+}
+
+
+.profession-action {
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.profession-action-edit:hover {
+    color: #00a65a;
+}
+
+.profession-action-delete:hover {
+    color: #dd4b39;
+}
+
+/*-------------------------------------------------------*/
+
+.professionals-action {
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.professionals-action-edit:hover {
+    color: #00a65a;
+}
+
+.professionals-action-view:hover {
+    color: #00a65a;
+}
+
+.professionals-action-activate:hover {
+    color: #00a65a;
+}
+
+.professionals-action-deactivate:hover {
+    color: #dd4b39;
+}
+
+.professionals-action-delete:hover {
+    color: #dd4b39;
+}
+
+/*-------------------------------------------------------*/
+
+.user-action {
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.user-action-edit:hover {
+    color: #00a65a;
+}
+
+.user-action-view:hover {
+    color: #00a65a;
+}
+
+
+.user-action-delete:hover {
+    color: #dd4b39;
+}
+
+/*-------------------------------------------------------*/
+
+.complaint-action {
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.complaint-action-view:hover {
+    color: #00a65a;
+}
+
+/*-------------------------------------------------------*/
+
+.payment-action {
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.payment-action-view:hover {
+    color: #00a65a;
+}
+
+.view-chalan {
+    font-size: 16px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.view-chalan:hover {
+    color: #00a65a;
+}
+
+/*-------------------------------------------------------*/
+
+.faq-action {
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.faq-action-edit:hover {
+    color: #00a65a;
+}
+
+.faq-action-delete:hover {
+    color: #dd4b39;
+}
+
+/*-------------------------------------------------------*/
+
+.list-action {
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.list-action-edit:hover {
+    color: #3c8dbc;
+}
+
+.item-action {
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.item-action-edit:hover {
+    color: #3c8dbc;
+}
+
+.item-action-delete:hover {
+    color: #dd4b39;
+}
+
+#idToDelete {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 17px;
+}
+
+
+.item-img {
+    width: auto;
+    height: 100px;
+    object-fit: cover;
+}
+
+.my-group .form-control{
+    width:50%;
+}
+
+.body-img {
+    width: auto;
+    height: 50px;
+    object-fit: cover;
+}
+
+.measurement-img {
+    width: auto;
+    height: 50px;
+    object-fit: cover;
+}
+
+.no-space {
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.order-action {
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.order-action-view:hover {
+    color: #3c8dbc;
+}
+
+.order-action-change:hover {
+    color: #3c8dbc;
+}
+
+.order-action-timeline:hover {
+    color: #3c8dbc;
+}
+
+.label-pre-production {
+    background: #39cccc;
+}
+
+.label-store {
+    background: #605ca8;
+}
+
+.label-warehouse {
+    background: #005384;
+}
+
+.label-production {
+    background: #d81b60;
+}
+
+.notify-panel {
+    border-radius: 0px;
+    background: #00c0ef;
+    color: white;
+    margin-bottom: 0px;
+    position: fixed;
+    z-index: 1000;
+    padding-top: 10px;
+    padding-left: 15px;
+    font-size: 18px;
+    display: none;
+}
+
+.notify-panel .icon {
+    font-size: 22px;
+    color: #0097bc;
+}
+
+.static-notify h4{
+    margin-bottom: 0px;
+}
+
+.static-notify i{
+    font-size: 21px;
+    color: #0097bc;
+}
+
+.garment-action-edit:hover{
+    color: #3c8dbc;
+}
+
+.base-size-action-edit:hover {
+    color: #3c8dbc;
+}
+
+.base-size-action-delete:hover{
+    color: #dd4b39;
+}
+
+.base-pattern-action-edit:hover {
+    color: #3c8dbc;
+}
+
+.base-pattern-action-delete:hover {
+    color: #dd4b39;
+}
+
+.active-user {
+    color: #00a65a;
+}
+
+.deactive-user {
+    color: #dd4b39;
+}
+
+.user-action {
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.user-action-activate:hover {
+    color: #00a65a;
+}
+
+.user-action-deactivate:hover {
+    color: #dd4b39;
+}
+
+.user-action-delete:hover {
+    color: #dd4b39;
+}
+
+#passwordDiv {
+    display: none;
+}
